@@ -1,6 +1,6 @@
 # movie app with React JS
 
-React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7jH19IHhOLOFTVD4R8FeZWkwpVi8-9Fv) 의 강좌를 따라가며 만들어봅니다.
+React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7jH19IHhOLOFTVD4R8FeZWkwpVi8-9Fv)의 강좌를 따라가며 만들어봅니다.
 
 
 
