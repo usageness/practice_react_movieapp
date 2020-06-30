@@ -9,9 +9,9 @@ React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7j
 1. Orientation ✔
 2. What are we building ✔
 3. Introduction to Create React App ✔
-4. Hello World with React and CRA ❌
-5. Creation React Components with JSX ❌
-6. Data flow with Props ❌
+4. Hello World with React and CRA ✔
+5. Creation React Components with JSX ✔
+6. Data flow with Props ✔
 7. List with .map ❌
 8. Validation Props with Prop Types ❌
 9. Component Lifecycle ❌
