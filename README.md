@@ -13,7 +13,7 @@ React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7j
 5. Creation React Components with JSX ✔
 6. Data flow with Props ✔
 7. List with .map ✔
-8. Validation Props with Prop Types ❌
+8. Validation Props with Prop Types ✔
 9. Component Lifecycle ❌
 10. Thinking in React Component State ❌
 11. Practicing this setState ❌
