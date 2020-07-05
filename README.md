@@ -16,7 +16,7 @@ React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7j
 8. Validation Props with Prop Types ✔
 9. Component Lifecycle ✔
 10. Thinking in React Component State ✔
-11. Practicing this setState ❌
+11. Practicing this setState ✔
 12. Loading states ❌
 13. Smart vs Dumb Components ❌
 14. AJAX on React ❌
