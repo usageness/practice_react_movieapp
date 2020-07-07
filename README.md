@@ -19,7 +19,7 @@ React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7j
 11. Practicing this setState ✔
 12. Loading states ✔
 13. Smart vs Dumb Components ✔
-14. AJAX on React ❌
+14. AJAX on React ✔
 15. Promises ❌
 16. Async Await ❌
 17. Updating Movie : Component ❌
