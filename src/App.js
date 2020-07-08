@@ -12,7 +12,10 @@ class App extends Component {
     state = { }
 
     componentDidMount() {
-        fetch('https://yts.mx/api/v2/list_movies.json')
+        fetch('https://yts.mx/api/v2/list_movies.json?sort_by=like_count')
+            .then(response => response.json())
+            .then(json => console.log(json))
+            .catch(err => console.log(err))
     }
 
 
