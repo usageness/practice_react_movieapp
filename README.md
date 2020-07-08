@@ -22,7 +22,7 @@ React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7j
 14. AJAX on React ✔
 15. Promises ✔
 16. Async Await ✔
-17. Updating Movie : Component ❌
+17. Updating Movie : Component ✔
 18. CSS for Moive ❌
 19. Building for Production ❌
 20. The END! ❌
