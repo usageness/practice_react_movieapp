@@ -26,3 +26,7 @@ React 학습의 목적으로 [링크](https://www.youtube.com/playlist?list=PL7j
 18. CSS for Movie ✔
 19. Building for Production ✔
 20. The END!
+
+### 강의 필기 in WIKI
+
+강의 필기는 [이곳](https://github.com/kyr9389/practice_react_movieapp/wiki)에서 확인 가능합니다.
