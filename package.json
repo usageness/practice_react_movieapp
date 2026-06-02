@@ -36,5 +36,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/kyr9389/practice_react_movieapp"
+  "homepage": "https://github.com/kyr9389/practice_react_movieapp",
+  "overrides": {
+    "tmp": ">=0.2.3",
+    "mime": ">=1.4.1"
+  }
 }
